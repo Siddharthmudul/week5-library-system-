@@ -1,1 +1,38 @@
-
+{
+    "9781593279288": {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "isbn": "9781593279288",
+        "year": 2019,
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "9781593275990": {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "isbn": "9781593275990",
+        "year": 2015,
+        "available": false,
+        "borrowed_by": "MEM001",
+        "due_date": "2024-02-15"
+    },
+    "9781491946008": {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "isbn": "9781491946008",
+        "year": 2022,
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "123456789": {
+        "title": "Marvels",
+        "author": "stan lee",
+        "isbn": "123456789",
+        "year": 1999,
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null
+    }
+}
